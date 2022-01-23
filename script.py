@@ -1,5 +1,5 @@
 # Import libraries
-import codecademylib3
+#import codecademylib3
 import pandas as pd
 import numpy as np
 from scipy.stats import binom_test
